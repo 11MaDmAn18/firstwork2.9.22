@@ -1,7 +1,7 @@
 # firstwork2.9.22
 Creating a repository and working with it
 Intended for training;
-Student of group TK-41, MDA;
+Student of group TK-41, M.D.A;
 Works
   1
   2
