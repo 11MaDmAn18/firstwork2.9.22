@@ -1,2 +1,2 @@
 # firstwork2.9.22
-Створення репозиторію та робота з ним
+Creating a repository and working with it
